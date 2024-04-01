@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "cmake.configureOnOpen": true,
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.port": 0
+}
